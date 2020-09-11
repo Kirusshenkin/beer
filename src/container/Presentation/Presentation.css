@@ -1,0 +1,8 @@
+.presentation .MuiContainer-root h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    margin: 0;
+    font-weight: 100;
+}

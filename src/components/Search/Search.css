@@ -1,0 +1,7 @@
+.MuiFormControl-root {
+    width: 100%;
+}
+
+.MuiButton-root {
+    line-height: 3.5 !important;
+}
